@@ -1,9 +1,9 @@
 {% set conda_name = "datapackage-py" %}
 {% set name = "datapackage" %}
-{% set version = "1.2.6" %}
+{% set version = "1.1.5" %}
 {% set bundle = "tar.gz" %}
 {% set hash_type = "sha256" %}
-{% set hash = "7e9192eacd0bca17a9b22750f5836f8903fc4d7b7e9dfc6d17f246272ef53561" %}
+{% set hash = "c72353a9b37f24cd4b09098f26449a390f08a7b347c1c89d52373eb4ff00a786" %}
 {% set build = 0 %}
 
 package:
